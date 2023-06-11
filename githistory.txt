@@ -1,1 +1,2 @@
-git is a distribited version control system
+git is a distribited version control system.
+git has been developed in 2005.
